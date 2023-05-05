@@ -20,7 +20,7 @@
     Multi-link sharing website developed with HTML and CSS.
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://links.asjordi.dev">View Demo</a>
     ·
     <a href="https://github.com/ASJordi/asjordi-links/issues">Report Bug</a>
     ·
@@ -28,7 +28,7 @@
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]](#)
+[![Product Name Screen Shot][product-screenshot]](https://links.asjordi.dev)
 
 ### Installation
 
