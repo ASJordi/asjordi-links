@@ -27,9 +27,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    environment:
-      name: deploy
-      url: https://links.asjordi.dev/
+      # Add another environment here
+      - name: deploy
+        url: https://links.asjordi.dev
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
