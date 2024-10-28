@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ASJordi/asjordi-links">
-    <img src="images/favicon.png" alt="Logo" width="80" height="80">
+    <img src="images/favicon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Multi-link sharing website</h3>
