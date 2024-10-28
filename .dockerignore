@@ -1,0 +1,16 @@
+# IDE
+.idea
+.vscode
+
+# Git and GitHub
+.github
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Files
+LICENSE
+README.md
